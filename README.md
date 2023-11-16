@@ -1,24 +1,14 @@
 ==========================================================================================
- __       __   ______   _______   _______   __        ________ 
-|  \  _  |  \ /      \ |       \ |       \ |  \      |        \
-| $$ / \ | $$|  $$$$$$\| $$$$$$$\| $$$$$$$\| $$      | $$$$$$$$
-| $$/  $\| $$| $$  | $$| $$__| $$| $$  | $$| $$      | $$__    
-| $$  $$$\ $$| $$  | $$| $$    $$| $$  | $$| $$      | $$  \   
-| $$ $$\$$\$$| $$  | $$| $$$$$$$\| $$  | $$| $$      | $$$$$   
-| $$$$  \$$$$| $$__/ $$| $$  | $$| $$__/ $$| $$_____ | $$_____ 
-| $$$    \$$$ \$$    $$| $$  | $$| $$    $$| $$     \| $$     \
- \$$      \$$  \$$$$$$  \$$   \$$ \$$$$$$$  \$$$$$$$$ \$$$$$$$$
-                                                               
+# WORDLE                                                               
 ==========================================================================================
 
-[CREADORES]
-  >COMPARATO ZARZA, Adriano
+# CREADORES]  >COMPARATO ZARZA, Adriano
   >DECUZZI, Emiliano
   >REY BRIENZA, Agustina
   >SABBATINI, Tatiana
 
 <========================>
-INSTRUCCIONES PARA EJECUTAR
+# INSTRUCCIONES PARA EJECUTAR
 <========================>
 1. Descomprimir todo el contendio del archivo .zip en la dirección C:\Tasm 1.4\Tasm
 2. Ejecutar DOSBox (Descargar DOSBox en https://sourceforge.net/projects/dosbox/files/latest/download)
